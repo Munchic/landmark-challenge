@@ -1,0 +1,5 @@
+# do not upload images
+dataset/
+
+# CSVs are too big
+csv/
